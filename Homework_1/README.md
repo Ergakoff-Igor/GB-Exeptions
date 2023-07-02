@@ -1,6 +1,6 @@
 # GB. Исключения в программировании и их обработка. ДЗ № 1.
 
-__*[Вызов всех методов осуществляется из метода "Program"](https://github.com/Ergakoff-Igor/GB-Exeptions/blob/main/Homework_1/Program.java)*__
+__*[Вызов всех методов осуществляется из класса "Program"](https://github.com/Ergakoff-Igor/GB-Exeptions/blob/main/Homework_1/Program.java)*__
 
 1. Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
 
