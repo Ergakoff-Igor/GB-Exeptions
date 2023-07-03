@@ -17,7 +17,7 @@ import java.util.Arrays;
 
 public class Task2 {
 
-    public void resultCode(int[] intArray, int d, int index) {
+    public void resultCodeTask2(int[] intArray, int d, int index) {
         try {
             double catchedRes1 = (double) intArray[index] / d;
             if (d == 0) {
